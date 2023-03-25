@@ -4,7 +4,7 @@
   "description": "Form on Tailwindcss",
   "main": "index.js",
   "scripts": {
-    "build":"tailwindcss build -i src/main.css -o styles/styles.css"
+    "build":"tailwindcss build -i src/main.css -o styles/styles.css --watch"
   },
   "author": "Aleksey Prytkikh",
   "license": "ISC",
