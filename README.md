@@ -1,4 +1,4 @@
-Static page of Form Autorization at
+Static page at
 TailwindCSS framework
 
 Для быстрого старта:

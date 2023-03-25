@@ -512,3 +512,25 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+
+.block {
+  display: block;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+@media (min-width: 640px) {
+  .sm\:justify-center {
+    justify-content: center;
+  }
+}
