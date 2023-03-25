@@ -1,0 +1,14 @@
+{
+  "name": "form_tailwind",
+  "version": "1.0.0",
+  "description": "Form on Tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "build":"tailwindcss build -i src/main.css -o styles/styles.css"
+  },
+  "author": "Aleksey Prytkikh",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
